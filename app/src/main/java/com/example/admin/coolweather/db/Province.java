@@ -1,4 +1,4 @@
-package com.example.admin.coolweather.gson;
+package com.example.admin.coolweather.db;
 
 import org.litepal.crud.DataSupport;
 
